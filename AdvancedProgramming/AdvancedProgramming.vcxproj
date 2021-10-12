@@ -193,6 +193,7 @@
     <ClInclude Include="MatrixInt.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="tree.h" />
+    <ClInclude Include="VectorSizeError.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
